@@ -11,11 +11,11 @@ python3 -m pip install -r requirements.txt
 ```
 
 ## Run the producer
-Run either the confluent-kafka-python library or kafka-python library to produce messages
+Run producers from either `confluent-kafka-python` library or `kafka-python` library to produce messages
 ```
 python3 confluent_kafka_entrypoint.py
 ```
-Or
+or
 ```
 python3 kafka_entrypoint.py
 ```
