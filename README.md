@@ -1,3 +1,6 @@
+## Description
+This project is a simple example of how to produce messages (AVRO format) to a Kafka topic in Amazon MSK using the `confluent-kafka-python` library and the `kafka-python` library and register to AWS Glue Schema Registry.
+
 ## Setup
 1. Start a virtualenv
 ```
