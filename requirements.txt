@@ -1,0 +1,5 @@
+kafka-python
+boto3
+aws-msk-iam-sasl-signer-python
+aws-glue-schema-registry
+confluent-kafka
